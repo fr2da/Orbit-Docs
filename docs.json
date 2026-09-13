@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "mint",
   "name": "Orbit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1f1f1f",
+    "light": "#cccccc",
+    "dark": "#141414"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -80,5 +80,8 @@
   },
   "appearance": {
     "default": "light"
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
